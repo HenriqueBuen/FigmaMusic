@@ -9,6 +9,7 @@ Nome do Meu Projeto: SoundTrack
 Link do projeto no figma: https://www.figma.com/file/v1SfNWyyln6WIbppxuAGEo/Figma-Music?type=design&node-id=0%3A1&mode=design&t=klORu7E3NHqaVEfH-1
 
 
+Objetivo do Projeto:
 
 Este projeto tem como objetivo a criação de um conjunto de interfaces para uma aplicação musical. A aplicação será voltada para pessoas de um espectro amplo visando proporcionar uma experiência interativa e envolvente para o processo de aprendizagem. O foco principal das interfaces será facilitar a navegação, garantir a acessibilidade e incentivar o engajamento dos usuários.
 
